@@ -11,6 +11,7 @@
 		C046A63F2A6DA102001F451F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C046A63E2A6DA102001F451F /* ContentView.swift */; };
 		C046A6412A6DA103001F451F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C046A6402A6DA103001F451F /* Assets.xcassets */; };
 		C046A6442A6DA103001F451F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C046A6432A6DA103001F451F /* Preview Assets.xcassets */; };
+		C0DE58FA2A6DB3B60032CFE7 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0DE58F92A6DB3B60032CFE7 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C046A63E2A6DA102001F451F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C046A6402A6DA103001F451F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C046A6432A6DA103001F451F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C0DE58F92A6DB3B60032CFE7 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		C046A63B2A6DA102001F451F /* RGBviewSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				C0DE58F92A6DB3B60032CFE7 /* TestView.swift */,
 				C046A63C2A6DA102001F451F /* RGBviewSwiftUIApp.swift */,
 				C046A63E2A6DA102001F451F /* ContentView.swift */,
 				C046A6402A6DA103001F451F /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0DE58FA2A6DB3B60032CFE7 /* TestView.swift in Sources */,
 				C046A63F2A6DA102001F451F /* ContentView.swift in Sources */,
 				C046A63D2A6DA102001F451F /* RGBviewSwiftUIApp.swift in Sources */,
 			);
